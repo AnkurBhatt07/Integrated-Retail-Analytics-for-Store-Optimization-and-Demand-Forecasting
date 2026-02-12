@@ -1,5 +1,7 @@
 # Retail Analytics Capstone
 
+Github Repository: https://github.com/AnkurBhatt07/Integrated-Retail-Analytics-for-Store-Optimization-and-Demand-Forecasting.git
+
 ## Project Overview
 This project focuses on integrated retail analytics using historical sales data to understand sales behavior, detect anomalous patterns, perform behavioral segmentation, and build demand forecasting models.  
 
